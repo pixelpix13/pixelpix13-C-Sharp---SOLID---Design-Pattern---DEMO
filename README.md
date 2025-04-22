@@ -1,0 +1,1 @@
+This is a demo of the oops concepts, SOLID principles and design patterns in C#
