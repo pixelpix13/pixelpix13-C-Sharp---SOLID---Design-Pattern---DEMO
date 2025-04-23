@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|a:\\projects\\c# .net\\design patterns and solid principles\\pixelpix13-c-sharp---solid---design-pattern---demo\\consoleapp1\\src\\designpatterns\\creational\\singleton\\goodexample\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\creational\\singleton\\goodexample\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|a:\\projects\\c# .net\\design patterns and solid principles\\pixelpix13-c-sharp---solid---design-pattern---demo\\consoleapp1\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|a:\\projects\\c# .net\\design patterns and solid principles\\pixelpix13-c-sharp---solid---design-pattern---demo\\consoleapp1\\src\\designpatterns\\creational\\singleton\\goodexample\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\creational\\singleton\\goodexample\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|a:\\projects\\c# .net\\design patterns and solid principles\\pixelpix13-c-sharp---solid---design-pattern---demo\\consoleapp1\\src\\designpatterns\\creational\\singleton\\badexample\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\creational\\singleton\\badexample\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|a:\\projects\\c# .net\\design patterns and solid principles\\pixelpix13-c-sharp---solid---design-pattern---demo\\consoleapp1\\src\\designpatterns\\creational\\singleton\\badexample\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\creational\\singleton\\badexample\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\Test.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\Test.cs",
+              "ToolTip": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\Test.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\Test.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:11:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSetting.cs",
+              "DocumentMoniker": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\AppSetting.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\AppSetting.cs",
+              "ToolTip": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\AppSetting.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\GoodExample\\AppSetting.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:54:57.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\Test.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\Test.cs",
+              "ToolTip": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\Test.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\Test.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:50:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\Program.cs",
+              "ToolTip": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\Program.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAALAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:46:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\AppSettings.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\AppSettings.cs",
+              "ToolTip": "A:\\Projects\\C# .net\\Design Patterns and SOLID Principles\\pixelpix13-C-Sharp---SOLID---Design-Pattern---DEMO\\ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\AppSettings.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Creational\\Singleton\\BadExample\\AppSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:38:41.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

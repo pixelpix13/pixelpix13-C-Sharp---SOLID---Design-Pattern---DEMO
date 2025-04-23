@@ -2,6 +2,7 @@
 using ConsoleApp1.SOLID.D.BetterExample;
 using ConsoleApp1.SOLID.S.BetterExample;
 using ConsoleApp1.src.DesignPatterns.Behavioral.Strategy.GoodExample;
+using ConsoleApp1.src.DesignPatterns.Creational.Singleton.GoodExample;
 using ConsoleApp1.src.OopPrinciples.Coupling;
 using ConsoleApp1.src.SOLID.D.BetterExample;
 using System;
@@ -164,5 +165,17 @@ using System;
 //additionaly, this also follows the Liskov Substitution Principle because we can easily substitute the ICompressor and IOverlay interfaces with any of their subclasses without changing the behavior of the program.
 //this also follows the Interface Segregation Principle because Icompress only has compress and IOverlay only has apply methods.
 //no additonal methods are added to the interfaces. No class is forced to implement methods that it does not use.
-
 //thus Strategy Pattern lets you define a family of interchangeable algorithms (strategies) and allows the client to choose one at runtime, without modifying the core logic.
+
+/* Singleton Pattern */
+//var settings = AppSetting.GetInstance();
+//settings.Set("app_name", "DemoSingleTon");
+//settings.Set("app_version", "1.0.0");
+//settings.Set("app_author", "Purav");
+//Console.WriteLine(settings.Get("app_name"));
+
+//Test.Run();
+//what we did here is that we created a singleton class that can only be instantiated once i.e. we call the getinsatance method to get the instance of the class.
+//we kept the AppSetting class private so that it cannot be instantiated from outside the class and thus cannot creaate multiple instances of the class.
+//this is an example of the singleton pattern.
+
